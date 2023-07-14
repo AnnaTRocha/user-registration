@@ -5,10 +5,10 @@ export default props =>
     <aside className="menu-area">
         <nav className="menu">
             {/* refatorar - criar componente menu */}
-            <a href="#/">
+            <a href="/">
                 <i className="fa fa-home"></i> Início
             </a>
-            <a href="#/user">
+            <a href="/user">
                 <i className="fa fa-users"></i> Usuário
             </a>
         </nav>
